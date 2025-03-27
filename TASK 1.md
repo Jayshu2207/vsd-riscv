@@ -1,6 +1,6 @@
-#This repository contains a simple C program that calculates the sum of numbers from 1 to n. 
-#The program demonstrates basic looping (for loop),arithmetic operations, and formatted output in C. 
-#It is useful for beginners learning C programming and command-line compilation.
+This repository contains a simple C program that calculates the sum of numbers from 1 to n. 
+The program demonstrates basic looping (for loop),arithmetic operations, and formatted output in C. 
+It is useful for beginners learning C programming and command-line compilation.
 
 
 
@@ -10,27 +10,27 @@
 
 
 
-#1. Opening the Source Code File in a Text Editor
+1. Opening the Source Code File in a Text Editor
 
-#leafpad sumiton.c &
+leafpad sumiton.c &
 
-#Opens the sumiton.c file in Leafpad, a graphical text editor.
+Opens the sumiton.c file in Leafpad, a graphical text editor.
 
-#The & at the end runs the command in the background, allowing the user to continue using the terminal.
-
-
-#2. Compiling the C Program Using GCC
-
-#gcc sumiton.c
-
-#This command compiles the sumiton.c file using the GNU Compiler Collection (GCC).
+The & at the end runs the command in the background, allowing the user to continue using the terminal.
 
 
-#3. Running the Compiled Program
+2. Compiling the C Program Using GCC
 
-#./a.out
+gcc sumiton.c
 
-#This executes the compiled binary file a.out.
+This command compiles the sumiton.c file using the GNU Compiler Collection (GCC).
+
+
+3. Running the Compiled Program
+
+./a.out
+
+This executes the compiled binary file a.out.
 
 The first run shows:
 
