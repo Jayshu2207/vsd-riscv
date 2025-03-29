@@ -2,12 +2,7 @@ This repository contains a simple C program that calculates the sum of numbers f
 The program demonstrates basic looping (for loop),arithmetic operations, and formatted output in C. 
 It is useful for beginners learning C programming and command-line compilation.
 
-
-
-
-
-
-
+![20250324_192855](https://github.com/user-attachments/assets/7e368f61-e72f-48fa-928b-5d6847b71a67)
 
 
 1. Opening the Source Code File in a Text Editor
@@ -42,14 +37,10 @@ Sum of numbers from 1 to 1000 is 500500
 
 This confirms that the program successfully calculates the sum from 1 to n.
 
+![20250324_200215](https://github.com/user-attachments/assets/b7869d51-6d1c-462e-bf32-00f2efbeef61)
 
 
-
-
-
-
-
-
+![20250328_043336](https://github.com/user-attachments/assets/52ab4134-13eb-4d26-939f-1256a177ac93)
 
 
 
